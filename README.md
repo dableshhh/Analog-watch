@@ -8,12 +8,12 @@ The Analog Watch project is a web-based clock built using HTML, CSS, and JavaScr
 # Features
 Real-time clock functionality
 
-Smooth movement of hour, minute, and second hands
-Responsive design for different screen sizes
-Lightweight and easy to run in any browser
+1 -Smooth movement of hour, minute, and second hands.
+2-Responsive design for different screen sizes
+3-Lightweight and easy to run in any browser
 
 #Technologies Used
 
-HTML5 – for structure
-CSS3 – for styling the clock face and hands
-JavaScript (ES6) – for dynamic time updates
+HTML – for structure,
+CSS – for styling the clock face and hands,
+JavaScript – for dynamic time updates,
